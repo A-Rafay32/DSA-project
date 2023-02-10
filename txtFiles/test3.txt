@@ -1,0 +1,2 @@
+In this chapter, Dart we introduce Classes and Dart how these can be Dart used together
+with Dart. Over the course of the chapter Dart you will explore both declaration

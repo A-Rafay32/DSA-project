@@ -1,0 +1,12 @@
+In this , we introduce Classes and how these can be used together
+with . Over the course of the chapter you will explore both declaration
+and extension of objects. These techniques are important and will provide a
+good reference as your Dart skills increase over time.
+The chapter covers how to incorporate a Class which represents a basic
+requirement for object oriented programming. In addition we also cover the
+need for constructors, extending classes and using multiple classes together.
+As your development becomes more sophisticated, you will be able to
+utilize custom classes to achieve your requirements. Becoming efficient
+with Classes is a steep learning curve, so take small steps. Overtime, you
+will naturally improve and be able to incorporate very complex subject
+matter into your general solutions.

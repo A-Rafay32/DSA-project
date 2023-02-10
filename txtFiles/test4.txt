@@ -1,0 +1,124 @@
+The idea of breaking a program into functions can be further extended by grouping a number
+of functions together into a larger entity called a module (which is often a file), but the principle is similar: a grouping of components that execute lists of instructions.
+Dividing a program into functions and modules is one of the cornerstones of structured programming, the somewhat loosely defined discipline that influenced programming organization
+for several decades before the advent of object-oriented programming.
+Problems with Structured Programming
+As programs grow ever larger and more complex, even the structured programming
+approach begins to show signs of strain. You may have heard about, or been involved
+in, horror stories of program development. The project is too complex, the schedule
+slips, more programmers are added, complexity increases, costs skyrocket, the schedule slips further, and disaster ensues. (See The Mythical Man-Month by Frederick P.
+Brooks, Jr. [Addison Wesley, 1982] for a vivid description of this process.)
+Analyzing the reasons for these failures reveals that there are weaknesses in the procedural
+paradigm itself. No matter how well the structured programming approach is implemented,
+large programs become excessively complex.
+What are the reasons for these problems with procedural languages? There are two related
+problems. First, functions have unrestricted access to global data. Second, unrelated functions
+and data, the basis of the procedural paradigm, provide a poor model of the real world.
+Let’s examine these problems in the context of an inventory program. One important global
+The idea of breaking a program into functions can be further extended by grouping a number
+of functions together into a larger entity called a module (which is often a file), but the principle is similar: a grouping of components that execute lists of instructions.
+Dividing a program into functions and modules is one of the cornerstones of structured programming, the somewhat loosely defined discipline that influenced programming organization
+for several decades before the advent of object-oriented programming.
+Problems with Structured Programming
+As programs grow ever larger and more complex, even the structured programming
+approach begins to show signs of strain. You may have heard about, or been involved
+in, horror stories of program development. The project is too complex, the schedule
+slips, more programmers are added, complexity increases, costs skyrocket, the schedule slips further, and disaster ensues. (See The Mythical Man-Month by Frederick P.
+Brooks, Jr. [Addison Wesley, 1982] for a vivid description of this process.)
+Analyzing the reasons for these failures reveals that there are weaknesses in the procedural
+paradigm itself. No matter how well the structured programming approach is implemented,
+large programs become excessively complex.
+What are the reasons for these problems with procedural languages? There are two related
+problems. First, functions have unrestricted access to global data. Second, unrelated functions
+The idea of breaking a program into functions can be further extended by grouping a number
+of functions together into a larger entity called a module (which is often a file), but the principle is similar: a grouping of components that execute lists of instructions.
+Dividing a program into functions and modules is one of the cornerstones of structured programming, the somewhat loosely defined discipline that influenced programming organization
+for several decades before the advent of object-oriented programming.
+Problems with Structured Programming
+As programs grow ever larger and more complex, even the structured programming
+approach begins to show signs of strain. You may have heard about, or been involved
+in, horror stories of program development. The project is too complex, the schedule
+slips, more programmers are added, complexity increases, costs skyrocket, the schedule slips further, and disaster ensues. (See The Mythical Man-Month by Frederick P.
+Brooks, Jr. [Addison Wesley, 1982] for a vivid description of this process.)
+Analyzing the reasons for these failures reveals that there are weaknesses in the procedural
+paradigm itself. No matter how well the structured programming approach is implemented,
+large programs become excessively complex.
+What are the reasons for these problems with procedural languages? There are two related
+problems. First, functions have unrestricted access to global data. Second, unrelated functions
+and data, the basis of the procedural paradigm, provide a poor model of the real world.
+Let’s examine these problems in the context of an inventory program. One important global
+The idea of breaking a program into functions can be further extended by grouping a number
+of functions together into a larger entity called a module (which is often a file), but the principle is similar: a grouping of components that execute lists of instructions.
+Dividing a program into functions and modules is one of the cornerstones of structured programming, the somewhat loosely defined discipline that influenced programming organization
+for several decades before the advent of object-oriented programming.
+Problems with Structured Programming
+As programs grow ever larger and more complex, even the structured programming
+approach begins to show signs of strain. You may have heard about, or been involved
+in, horror stories of program development. The project is too complex, the schedule
+slips, more programmers are added, complexity increases, costs skyrocket, the schedule slips further, and disaster ensues. (See The Mythical Man-Month by Frederick P.
+Brooks, Jr. [Addison Wesley, 1982] for a vivid description of this process.)
+Analyzing the reasons for these failures reveals that there are weaknesses in the procedural
+paradigm itself. No matter how well the structured programming approach is implemented,
+large programs become excessively complex.
+What are the reasons for these problems with procedural languages? There are two related
+The idea of breaking a program into functions can be further extended by grouping a number
+of functions together into a larger entity called a module (which is often a file), but the principle is similar: a grouping of components that execute lists of instructions.
+Dividing a program into functions and modules is one of the cornerstones of structured programming, the somewhat loosely defined discipline that influenced programming organization
+for several decades before the advent of object-oriented programming.
+Problems with Structured Programming
+As programs grow ever larger and more complex, even the structured programming
+approach begins to show signs of strain. You may have heard about, or been involved
+in, horror stories of program development. The project is too complex, the schedule
+slips, more programmers are added, complexity increases, costs skyrocket, the schedule slips further, and disaster ensues. (See The Mythical Man-Month by Frederick P.
+Brooks, Jr. [Addison Wesley, 1982] for a vivid description of this process.)
+Analyzing the reasons for these failures reveals that there are weaknesses in the procedural
+paradigm itself. No matter how well the structured programming approach is implemented,
+large programs become excessively complex.
+What are the reasons for these problems with procedural languages? There are two related
+problems. First, functions have unrestricted access to global data. Second, unrelated functions
+and data, the basis of the procedural paradigm, provide a poor model of the real world.
+Let’s examine these problems in the context of an inventory program. One important global
+The idea of breaking a program into functions can be further extended by grouping a number
+of functions together into a larger entity called a module (which is often a file), but the principle is similar: a grouping of components that execute lists of instructions.
+Dividing a program into functions and modules is one of the cornerstones of structured programming, the somewhat loosely defined discipline that influenced programming organization
+for several decades before the advent of object-oriented programming.
+Problems with Structured Programming
+As programs grow ever larger and more complex, even the structured programming
+approach begins to show signs of strain. You may have heard about, or been involved
+in, horror stories of program development. The project is too complex, the schedule
+slips, more programmers are added, complexity increases, costs skyrocket, the schedule slips further, and disaster ensues. (See The Mythical Man-Month by Frederick P.
+Brooks, Jr. [Addison Wesley, 1982] for a vivid description of this process.)
+Analyzing the reasons for these failures reveals that there are weaknesses in the procedural
+paradigm itself. No matter how well the structured programming approach is implemented,
+large programs become excessively complex.
+What are the reasons for these problems with procedural languages? There are two related
+problems. First, functions have unrestricted access to global data. Second, unrelated functions
+The idea of breaking a program into functions can be further extended by grouping a number
+of functions together into a larger entity called a module (which is often a file), but the principle is similar: a grouping of components that execute lists of instructions.
+Dividing a program into functions and modules is one of the cornerstones of structured programming, the somewhat loosely defined discipline that influenced programming organization
+for several decades before the advent of object-oriented programming.
+Problems with Structured Programming
+As programs grow ever larger and more complex, even the structured programming
+approach begins to show signs of strain. You may have heard about, or been involved
+in, horror stories of program development. The project is too complex, the schedule
+slips, more programmers are added, complexity increases, costs skyrocket, the schedule slips further, and disaster ensues. (See The Mythical Man-Month by Frederick P.
+Brooks, Jr. [Addison Wesley, 1982] for a vivid description of this process.)
+Analyzing the reasons for these failures reveals that there are weaknesses in the procedural
+paradigm itself. No matter how well the structured programming approach is implemented,
+large programs become excessively complex.
+What are the reasons for these problems with procedural languages? There are two related
+problems. First, functions have unrestricted access to global data. Second, unrelated functions
+and data, the basis of the procedural paradigm, provide a poor model of the real world.
+Let’s examine these problems in the context of an inventory program. One important global
+The idea of breaking a program into functions can be further extended by grouping a number
+of functions together into a larger entity called a module (which is often a file), but the principle is similar: a grouping of components that execute lists of instructions.
+Dividing a program into functions and modules is one of the cornerstones of structured programming, the somewhat loosely defined discipline that influenced programming organization
+for several decades before the advent of object-oriented programming.
+Problems with Structured Programming
+As programs grow ever larger and more complex, even the structured programming
+approach begins to show signs of strain. You may have heard about, or been involved
+in, horror stories of program development. The project is too complex, the schedule
+slips, more programmers are added, complexity increases, costs skyrocket, the schedule slips further, and disaster ensues. (See The Mythical Man-Month by Frederick P.
+Brooks, Jr. [Addison Wesley, 1982] for a vivid description of this process.)
+Analyzing the reasons for these failures reveals that there are weaknesses in the procedural
+paradigm itself. No matter how well the structured programming approach is implemented,
